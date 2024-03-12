@@ -1,0 +1,11 @@
+
+
+
+GOOS=linux GOARCH=amd64 go build main.go
+
+GOOS=darwin GOARCH=amd64 go build main.go
+ ./main -uroot -p123456 -h192.168.3.100 -P3306
+
+
+
+

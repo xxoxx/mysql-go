@@ -48,4 +48,4 @@ wget https://gitee.com/tinatmp/mysql/releases/download/mysql/mysql_linux -O /usr
 ### 其它
 - 兼容 mysql5.7 mysql8 tidb
 - 测试不全，可能存在bug
--  想要更强大的功能 可参考 https://github.com/xo/usql 
+-  想要更强大的功能 可参考 https://github.com/xo/usql   https://github.com/johejo/go-mysql-client  https://github.com/danvergara/dblab
